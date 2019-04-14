@@ -1,4 +1,8 @@
+.project
+*.pyc
+*.pyo
+*~
 .idea
-djangovenv
-djangovenv3
-mysite
+*.log
+*.sql
+.git
